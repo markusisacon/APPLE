@@ -6,3 +6,4 @@
 REPORT zms_helloworld.
 
 WRITE / 'Hello world!'.
+WRITE / 'Hello people!'.
